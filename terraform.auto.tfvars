@@ -1,2 +1,1 @@
-ikswsname = sb_iks
-
+ikswsname = rtp_k8_iks
