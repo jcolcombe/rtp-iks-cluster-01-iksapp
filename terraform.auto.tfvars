@@ -1,1 +1,1 @@
-ikswsname = rtp_k8_iks
+ikswsname = rtp-iks-cluster-01-profile
