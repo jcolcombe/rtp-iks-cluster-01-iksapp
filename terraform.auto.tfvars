@@ -1,1 +1,1 @@
-ikswsname = rtp-iks-cluster-01
+#ikswsname = rtp-iks-cluster-01
